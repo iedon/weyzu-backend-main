@@ -1,0 +1,11 @@
+{
+    "name": "acorle-sdk",
+    "version": "1.0.0",
+    "author": "iEdon",
+    "private": true,
+    "dependencies": {
+      "crypto-js": "^4.1.1",
+      "google-protobuf": "^3.18.0",
+      "urllib": "^2.37.4"
+    }
+}
